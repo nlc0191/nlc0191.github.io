@@ -13,3 +13,7 @@ p{
 .header {
 	background-color: black; 
 }
+
+.header h1 {
+	color: black;
+}
